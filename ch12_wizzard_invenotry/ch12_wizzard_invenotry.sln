@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch12_wizzard_invenotry", "ch12_wizzard_invenotry\ch12_wizzard_invenotry.csproj", "{90526A21-2778-45CF-8BA7-604A4D80F51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90526A21-2778-45CF-8BA7-604A4D80F51E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{90526A21-2778-45CF-8BA7-604A4D80F51E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{90526A21-2778-45CF-8BA7-604A4D80F51E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{90526A21-2778-45CF-8BA7-604A4D80F51E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
